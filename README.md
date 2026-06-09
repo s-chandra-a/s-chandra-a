@@ -23,6 +23,7 @@
 * Git & GitHub
 * HTML, CSS
 * React
+* Vue
 * Node.js
 * MySQL
 * Python
@@ -33,7 +34,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-chandra-a\&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-chandra-a&theme=aura_dark) 
 
 ## LeetCode Stats
 
