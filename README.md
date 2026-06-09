@@ -37,7 +37,7 @@
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/heo1jkOLZT?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.cool/s-chandra-a?theme=dark&font=Karma)
 
 ## Connect With Me
 
